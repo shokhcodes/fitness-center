@@ -90,7 +90,7 @@
 
 | Главная | Тренеры | Абонементы |
 |--------|---------|------------|
-| ![home](screenshots/home.png) | ![coaches](screenshots/coaches.png) | ![plans](screenshots/plans.png) |
+| ![home](screenshots/Главная.png) | ![coaches](screenshots/Тренеры.png) | ![plans](screenshots/Абонементы.png) |
 
 ---
 
